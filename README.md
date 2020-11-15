@@ -2,6 +2,10 @@
 
 Welcome here ! I'm Arthur Madec-Prevost. I'm an IT student, learning code in Nantes.
 
+- 🔭 I’m currently working on private projects with other students.
+- 🌱 I’m currently learning more about Symfony, while learning C, C++, Java.
+- 😄 Pronouns: He/Him
+
 <!--
 **arthurmadecprevost/arthurmadecprevost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

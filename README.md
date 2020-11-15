@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome here ! I'm Arthur Madec-Prevost. I'm an IT student, learning code in Nantes.
+
 <!--
 **arthurmadecprevost/arthurmadecprevost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

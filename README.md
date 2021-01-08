@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 Welcome here ! I'm Arthur Madec-Prevost. I'm an IT student, learning code in Nantes.
 

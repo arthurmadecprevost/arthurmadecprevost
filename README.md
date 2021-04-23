@@ -2,8 +2,9 @@
 
 Welcome here ! I'm Arthur Madec-Prevost. I'm an IT student, learning code in Nantes.
 
-- 🔭 I’m currently working on private projects with other students.
-- 🌱 I’m currently learning more about Symfony, while learning C, C++, Java.
+- 🔭 I’m currently working at [Aguaro](https://aguaro.io/)
+- 🌱 I’m currently learning different subjects such a Green IT, Sustainable IT
+- 📫 You can find my blog posts on [arthurmadecprevost.com](https://arthurmadecprevost.com/)
 - 😄 Pronouns: He/Him
 
 <!--

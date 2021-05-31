@@ -7,7 +7,7 @@ Welcome here ! I'm Arthur Madec-Prevost. I'm an IT student, learning code in Nan
 - 📫 You can find my blog posts on [arthurmadecprevost.com](https://arthurmadecprevost.com/)
 - 😄 Pronouns: He/Him
 
-![](https://img.shields.io/twitter/follow/amadecprevost?color=green&style=for-the-badge)
+<a href="https://twitter.com/intent/follow?screen_name=amadecprevost"><img src="https://img.shields.io/twitter/follow/amadecprevost?color=green&style=for-the-badge"/></a>
 
 <!--
 **arthurmadecprevost/arthurmadecprevost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

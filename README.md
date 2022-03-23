@@ -7,6 +7,8 @@ Welcome here ! I'm Arthur Madec-Prevost. I'm an IT student, learning code in Nan
 - 📫 You can find my blog posts on [arthurmadecprevost.com](https://arthurmadecprevost.com/)
 - 😄 Pronouns: He/Him
 
+[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurmadecprevost)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://twitter.com/intent/follow?screen_name=amadecprevost" target="_blank"><img src="https://img.shields.io/twitter/follow/amadecprevost?color=green&style=for-the-badge"/></a>
 
 <!--

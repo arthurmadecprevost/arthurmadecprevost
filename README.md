@@ -9,8 +9,6 @@ Welcome here ! I'm Arthur Madec-Prevost. I'm an IT student, learning code in Nan
 
 [![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurmadecprevost&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://twitter.com/intent/follow?screen_name=amadecprevost" target="_blank"><img src="https://img.shields.io/twitter/follow/amadecprevost?color=green&style=for-the-badge"/></a>
-
 <!--
 **arthurmadecprevost/arthurmadecprevost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,9 +2,9 @@
 
 Welcome here ! I'm Arthur Madec-Prevost. I'm an IT student, learning code in Nantes.
 
-- 🔭 I’m currently working at [🌵 Aguaro](https://aguaro.io/) & [Naostre](https://naostre.com/)
+- 🔭 I’m currently working at [🌵 Aguaro](https://aguaro.io/)
 - 🌱 I’m currently learning different subjects such a Green IT, Sustainable IT
-- 📫 You can find my blog posts on [arthurmadecprevost.com](https://arthurmadecprevost.com/)
+- 📫 You can find my website [here](https://arthurmadecprevost.com/)
 - 😄 Pronouns: He/Him
 
 [![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurmadecprevost&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

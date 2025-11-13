@@ -1,14 +1,9 @@
 ### Hello there 👋
 
-Welcome here ! I'm Arthur Madec-Prevost. I'm an IT student, learning code in Nantes.
+Welcome here !
 
 - 🔭 I’m currently working at [🌵 Aguaro](https://aguaro.io/)
-- 🌱 I’m currently learning different subjects such a Green IT, Sustainable IT
 - 📫 You can find my website [here](https://arthurmadecprevost.com/)
-- 😄 Pronouns: He/Him
-
-[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurmadecprevost&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **arthurmadecprevost/arthurmadecprevost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
